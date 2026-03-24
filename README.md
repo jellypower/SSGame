@@ -13,7 +13,7 @@ https://youtu.be/KHo7lmSJnLM
 # 테스트 방법
 
 1. 우측 Release탭에 있는 실제 빌드를 다운받아주세요.
-2. 압축을 풀고 어플리케이션을 실행하면 테스트가 가능합니다.
+2. 압축을 풀고 SSGame.exe 어플리케이션을 실행하면 테스트가 가능합니다.
 
 # 컨트롤
 
@@ -41,7 +41,7 @@ https://github.com/jellypower/SSEngineDefault
 # How to Test
 
 1. Please download the build from the Releases tab on the right.
-2. Extract the archive and run the application to test it.
+2. Extract the archive and run the SSGame.exe application to test it.
 
 # Controls
 
