@@ -1,4 +1,7 @@
-https://www.youtube.com/watch?v=KHo7lmSJnLM
+
+[![YoutubeVideo](http://img.youtube.com/vi/KHo7lmSJnLM/0.jpg)]
+(https://youtu.be/KHo7lmSJnLM)
+
 
 # 프로젝트 정보
 
