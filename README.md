@@ -1,5 +1,6 @@
 
-[![YoutubeVideo](http://img.youtube.com/vi/KHo7lmSJnLM/0.jpg)]
+![YoutubeVideo](http://img.youtube.com/vi/KHo7lmSJnLM/0.jpg)
+
 (https://youtu.be/KHo7lmSJnLM)
 
 
