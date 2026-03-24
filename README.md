@@ -23,6 +23,13 @@
 - 자유시점 변경: 키보드 숫자 1
 - 조작시점 변경: 키보드 숫자 2
 
+# 플랫폼 기반 코드
+https://github.com/jellypower/SSEngineDefault
+<br/>
+<br/>
+<br/>
+  
+
 ---
 
 # Project Information
@@ -43,3 +50,9 @@
 - Aim / Lock Camera: Right mouse button
 - Free camera mode: Keyboard 1
 - Controlled camera mode: Keyboard 2
+
+# Engine platform code
+https://github.com/jellypower/SSEngineDefault
+<br/>
+<br/>
+<br/>
