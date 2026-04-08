@@ -7,7 +7,8 @@ https://youtu.be/KHo7lmSJnLM
 # 프로젝트 정보
 
 - 이 저장소는 코드 스타일과 구현 내용을 설명하기 위해 프로젝트의 일부만 공개되어 있습니다.
-- 이로 인해 전체 빌드는 불가능합니다.
+- 따라서 빌드하려면 Releases 섹션의 SSGame_Lib_Debug_x64.zip 또는 SSGame_Lib_Release_x64.zip을 압축 해제한 후, 해당 파일들을 x64/Debug 또는 x64/Release 폴더(실행 파일 위치)에 배치해야 합니다.
+- 빌드가능한 솔루션은 SSEngine_Game/SSGame에 경로에 있습니다.
 - 실행 가능한 빌드는 Releases 섹션에서 확인하실 수 있습니다.
 
 # 테스트 방법
@@ -35,7 +36,8 @@ https://github.com/jellypower/SSEngineDefault
 # Project Information
 
 - This repository contains only a partial subset of the project to demonstrate code style and implementation details.
-- As a result, it is not buildable.
+- To build the project, extract either SSGame_Lib_Debug_x64.zip or SSGame_Lib_Release_x64.zip from the Release section and place the extracted files into the x64/Debug or x64/Release folder where the executable is located.
+- The buildable solution is located in the SSEngine_Game/SSGame directory.
 - A runnable build is available in the Releases section.
 
 # How to Test
